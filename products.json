@@ -1,0 +1,139 @@
+[
+    {     
+      "name": "Aayna Purple Cotton Dress",
+      "description": "Mirror-Embroidered Handloom Cotton Dress ",
+      "collection": "Aayna",
+      "category": "Kids",
+      "fabric": "Cotton",
+      "price": 1450,      
+      "featured": true,
+      "stock": 4
+    },
+    {      
+      "name": "Mandaram Cotton Kasavu dress",
+      "description": "Tiered handloom cotton Kasavu Dress With Headband",
+      "collection": "Mandaram",
+      "category": "Kids",
+      "fabric": "Cotton",
+      "price": 1650,      
+      "featured": true,
+      "stock": 2
+    },
+    {      
+      "name": "Petals Biege Dress",
+      "description": "Floral-embroidered Dobby Cotton Dress",
+      "collection": "Petals",
+      "category": "Kids",
+      "fabric": "Cotton",
+      "price": 1450,     
+      "featured": false,
+      "stock": 3
+    },
+    {     
+      "name": "Saaya Blue Dress",
+      "description": "Designer Soft Cotton Dress with Headband",
+      "collection": "Saaya",
+      "category": "Kids",
+      "fabric": "Cotton",
+      "price": 1050,      
+      "featured": false,
+      "stock": 5
+    },
+    {      
+      "name": "Aayna Peach Dress",
+      "description": "Mirror-Embroidered Handloom Cotton Dress",
+      "collection": "Aayna",
+      "category": "Kids",
+      "fabric": "Cotton",
+      "price": 1100,      
+      "featured": false,
+      "stock": 4
+    },
+    {     
+      "name": "Leher Pink Dress",
+      "description": "Tiered cotton Bandhni Dress with halter neck",
+      "collection": "Leher",
+      "category": "Kids",
+      "fabric": "Cotton",
+      "price": 1200,      
+      "featured": true,
+      "stock": 7
+    },
+    {      
+      "name": "Aayna Green Kurti",
+      "description": "Mirror-Embroidered Handloom Cotton Kurti",
+      "collection": "Aayna",
+      "category": "Women",
+      "fabric": "Cotton",
+      "price": 1400, 
+      "stock": 4
+    },
+    {     
+      "name": "Embroidered Kasavu dress",
+      "description": "Cotton Kasavu dress with hand-embroidered red flowers",
+      "collection": "Chethi",
+      "category": "Kids",
+      "fabric": "Cotton",
+      "price": 1200,      
+      "featured": true,
+      "stock": 2
+    },
+    {      
+      "name": "Mandaram Kasavu Skirt",
+      "description": "Cotton Gold polka dot skirt with pink brocade crop-top",
+      "collection": "Mandaram",
+      "category": "Kids",
+      "fabric": "Brocade",
+      "price": 1550,      
+      "featured": true,
+      "stock": 2
+    },
+    {     
+      "name": "Silver Kasavu dress",
+      "description": "Embroidered Purple and Silver Handloom cotton Kasavu dress",
+      "collection": "Chethi",
+      "category": "Kids",
+      "fabric": "Cotton",
+      "price": 1100,      
+      "stock": 2
+    },
+    {      
+      "name": "Mandaram Kasavu Skirt",
+      "description": "Cotton Silver kasavu skirt with Mint Green brocade crop-top",
+      "collection": "Mandaram",
+      "category": "Kids",
+      "fabric": "Brocade",
+      "price": 1550,      
+      "stock": 2
+    },
+    {     
+      "name": "Linen Embroidered Dress",
+      "description": "Off-white Linen Dress with hand-embroidered red roses",
+      "collection": "Petals",
+      "category": "Kids",
+      "fabric": "Linen",
+      "price": 1850,     
+      "featured": true,
+      "stock": 3
+    },
+    {      
+      "name": "Linen Hand-painted Dress",
+      "description": "Off-white Linen Dress with hand-painted baby elephant and embroidered flowers",
+      "collection": "Petals",
+      "category": "Kids",
+      "fabric": "Linen",
+      "price": 1800,      
+      "featured": false,
+      "stock": 3
+    },
+    {      
+      "name": "Linen Embroidered Dress",
+      "description": "Baby Pink Linen Dress with  floral hand-embroidery",
+      "collection": "Petals",
+      "category": "Kids",
+      "fabric": "Linen",
+      "price": 1750,      
+      "featured": false,
+      "stock": 3
+    }
+  ]
