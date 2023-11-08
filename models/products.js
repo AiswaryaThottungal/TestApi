@@ -8,11 +8,7 @@ const productSchema = new mongoose.Schema({
     description: {
         type: String,
         required: true,
-    },
-    collection: {
-        type: String,
-        required: true,
-    },
+    },   
     category: {
         type: String,
         enum: {
@@ -28,6 +24,30 @@ const productSchema = new mongoose.Schema({
         type: Number,
         required: [true, "Price must be provided"],
     },  
+    sizeAvailable: [{
+        size: {
+            type: String,
+            enum: {
+                values: ["0-3M","3-6M","6-12M","1-2Y","2-3Y","3-4Y","4-5Y","5-6Y","6-7Y","7-8Y","S","M","L","XL"],
+                message: `{VALUE} is not supported`
+            },
+            
+        },
+        quantity: {
+            type: Number,
+            
+        }
+    }],
+    images: [{
+        id:{
+            type:String,
+            required : true,
+        },
+        src: {
+            type: String,
+            required: true,
+        }
+}],  
     featured:{
         type: Boolean,
         default: false,
